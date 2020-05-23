@@ -1,0 +1,35 @@
+
+#one 
+{       width:100px;
+        height:50px;
+        background-color: black;
+        color: grey;
+        font-weight: 800;
+        font-family: 'Press Start 2P', cursive;
+        margin-left: 750px;
+        margin-top: 127px;
+}
+   
+
+.title
+{
+    height: 100px;
+    color: grey;
+    margin-top: 20px;
+    margin-left: 421px;
+    font-size: 100px;
+    font-weight: 900;
+    font-family: 'Press Start 2P', cursive;
+}
+
+.gif
+{
+    
+    margin-left: 539px;
+    margin-top: 122px;
+}
+
+.a
+{
+    background: black;
+}
